@@ -1,4 +1,4 @@
-.idea/*
+.idea
 target
 checkstyle.cache
 *.iml
